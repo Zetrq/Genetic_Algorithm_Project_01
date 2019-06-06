@@ -52,7 +52,7 @@ function setup() {
   stats.class("stats");
 
   //createCanvas(640, 360);
-  target = "EnaKapaGiaTiDiamoni.";
+  target = "Ena Kapa Gia Ti Diamoni.";
   popmax = 150;
   mutationRate = 0.01;
 
