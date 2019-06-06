@@ -44,7 +44,7 @@ function setup() {
   bestPhrase.class("best");
 
   allPhrases = createP("All phrases:");
-  allPhrases.position(600, 10);
+  allPhrases.position(900, 10);
   allPhrases.class("all");
 
   stats = createP("Stats");
@@ -52,8 +52,8 @@ function setup() {
   stats.class("stats");
 
   //createCanvas(640, 360);
-  target = "EnakapGiaTiDiamoni.";
-  popmax = 250;
+  target = "EnaKapaGiaTiDiamoni.";
+  popmax = 150;
   mutationRate = 0.01;
 
   // Create a population with a target phrase, mutation rate, and population max
